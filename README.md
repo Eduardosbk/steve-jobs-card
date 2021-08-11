@@ -24,3 +24,5 @@ $ git clone https://github.com/Eduardosbk/steve-jobs-card
 <code>
 $ cd steve-jobs-card
 </code><br>
+<hr>
+<h4 align="center">Made with 💜 by Eduardo Candido.</h4>
