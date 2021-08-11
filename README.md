@@ -12,7 +12,6 @@ Small project to pratice css flexbox
 <ul>
   <li><a href="https://devdocs.io/html/">HTML</a></li>
   <li><a href="https://devdocs.io/css/">CSS</a></li>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a></li>
   <li><a href="https://git-scm.com/">Git</a></li>
 </ul>
 <h1>🖥 Get Started</h1>
